@@ -4,7 +4,7 @@ date: 2020-04-30T21:12:13-04:00
 draft: false
 ---
 
- # Welcome to the the IT study. 
+# Welcome to the the IT study. 
 
 This page is for the Security+ COMPTIA certification and every week I will be hosting a study session as well as compensation on the exam.
 
@@ -46,4 +46,9 @@ RHCSA(TBD)
 RHCSE(TBD)
 
 In this order.
+
+
+To get started head back to the home page and download the books and videos. From there you are ready to start the Security+ Study.
+Any Updates will be posting to the blog and you can access this anytime.
+
 
