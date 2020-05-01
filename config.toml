@@ -16,9 +16,9 @@ pygmentscodefences  = true
     name = "About"
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
 [[menu.main]]
-    name = "Projects"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "Downloads"
+    url  = "#"
 [[menu.main]]
-    name = "Resume"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "Discord?"
+    url  = "#"
 
