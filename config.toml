@@ -1,6 +1,6 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://happy-pare-84a35d.netlify.app"
 title = "Black & Light"
-author = "David Hamp-Gonsalves"
+author = "Kaz"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
