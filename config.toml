@@ -17,8 +17,8 @@ pygmentscodefences  = true
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
 [[menu.main]]
     name = "Downloads"
-    url  = "#"
+    url  = "http://149.28.35.61:1717/"
 [[menu.main]]
-    name = "Discord?"
+    name = "Discord(I don'think I should link to this.)"
     url  = "#"
 
