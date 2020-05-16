@@ -1,5 +1,5 @@
 ---
-title: "Security Plus(Start Here)"
+title: "How to make a static webpage without a server!"
 date: 2020-05-13 T21:12:13-04:00
 draft: false
 ---
