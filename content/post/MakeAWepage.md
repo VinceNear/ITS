@@ -28,7 +28,7 @@ With Registrations out of the way we are noe ready to get start with setting up 
 
 
 
-## Step 2. Creating s repository/Choose a starter theme.
+## Step 2. Creating a repository/Choose a starter theme.
 ---
 With all of our registartions done we can go to Github and open a repo. Since we will be using a framework to do this. We can open a repo with anythin that will be pushed to Netlify. So for this guide we will be starting from a start theme from some starter frameworks. I will be using Gatsby.js since it is in javascript and will will incorporate into most of my other programming tutorials I will write.
 
