@@ -49,6 +49,16 @@ Go ahead and allow access to the account and Netlify will start building your pa
 
 If you haven't noticed that the page you just made is kind of bland. Let's customize it and change some something and maybe even add a post.
 
+From the Github repo page you can edit or create a page from the menu and you can refer to the theme's homepage for how to structure the text in the page to make a new post. New making new posts the posts will be in markdown when entering it in Github. As an example I have a picture of what my post looks like.
+
+Remember that each theme and each page may have a different markup structure. You can also change the config file. Most of the time the config file will be self explanatory and will be easy to modify to change. Change the config file and then you should be able to see any changes you have made after a build is pushed.
+
+---
+That's all folks. you've pushed your first webpage to Netlify and wrote some code to Github and the best part about all of this is the fact that this is the same equipment that professionals in the industry use .
+
+I'll be posting more tutorials next week.
+
+Till next time!
 
 
 
