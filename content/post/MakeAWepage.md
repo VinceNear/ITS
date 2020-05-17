@@ -17,12 +17,15 @@ Register for Github. Github is a free service and while it does have paid featur
 
 Here are some pictures to serve as something as a guide for those who might have trouble with registering.
 
+![Github Web](content/images/Github login.PNG.jpg)
+
 Another service we will register with is Netlify which is the service that will be hosting and building our pages with tiny builds for pages.
 
+![Netlify Web](content/images/Github login.PNG.jpg) # Put Netlify login #
 
 So just to explain how all of this will go. In Github there will be some code that is built by Netlify and then compiled and hosted on Netilfy's servers. You can also make changes to this code and Netlify will build and compiled this code from the latest build you pushed to Github.
 
-
+![Netlify Web](content/images/Github login.PNG.jpg) # Put picture of #
 
 With Registrations out of the way we are noe ready to get start with setting up Github to start building our pages. On to Step 2.
 
@@ -42,6 +45,12 @@ Found one you like? Good you'll find a "Deploy with Netlify Button" Click that a
 
 
 Go a ahead and click that button to be brought to the authorization page. From this page you can authorize Netlify to open a repo and make changes to that repo.
+
+# ![Netlify Web](content/images/Github login.PNG.jpg) # NETLIFY PAGE PIC #
+
+
+
+# another picture shoeing thj 
 
 Go ahead and allow access to the account and Netlify will start building your page with the framework we chose in this case it is Gatsby.js and when everything is done Netlify will give a link to where your page is being hosted. Congrats! You have made your very first webpage using without a physical host! But something is missing...
 
