@@ -1,3 +1,9 @@
+---
+title: "Start Here"
+date: 2020-05-30T21:12:13-04:00
+draft: false
+---
+
 # Getting Started with excersize.
 ---
 This guide is for women and this guide ill be on a progression based system.
