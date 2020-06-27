@@ -1,4 +1,4 @@
-baseurl = "https://happy-pare-84a35d.netlify.app"
+baseurl = "https://justseomnotestoread.netlify.app/"
 title = "Security+"
 author = "Kaz"
 canonifyurls = true
@@ -9,16 +9,16 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Weekly IT Study"
+  sitename = "How to lose weight.(with science)"
   disableWebFonts = false
 
 [[menu.main]]
     name = "About"
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
 [[menu.main]]
-    name = "Downloads"
+    name = "This will go to a calorie calculator Soon"
     url  = "http://149.28.35.61:1717/"
 [[menu.main]]
-    name = "Discord(I don'think I should link to this.)"
+    name = "Send me an email."
     url  = "#"
 
