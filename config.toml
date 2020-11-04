@@ -1,5 +1,5 @@
 baseurl = "https://justseomnotestoread.netlify.app/"
-title = "Security+"
+title = "Papaya Blog"
 author = "Kaz"
 canonifyurls = true
 languagecode = "en"
@@ -9,15 +9,18 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "How to lose weight.(with science)"
+  sitename = "Papaya Blog"
   disableWebFonts = false
 
 [[menu.main]]
     name = "About"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    url  = "https://justseomnotestoread.netlify.app/"
+[[main.menu]]
+    name = "Find me Twitter"
+    url = "#"
 [[menu.main]]
-    name = "This will go to a calorie calculator Soon"
-    url  = "http://149.28.35.61:1717/"
+    name = "Papaya.moe"
+    url  = "http://papaya.moe"
 [[menu.main]]
     name = "Send me an email."
     url  = "#"
