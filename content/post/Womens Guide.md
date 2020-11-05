@@ -1,7 +1,7 @@
 ---
 title: "Women's Guide"
 date: 2020-05-30T21:12:13-04:00
-draft: false
+draft: true
 ---
 
 # Getting Started with excersize.
