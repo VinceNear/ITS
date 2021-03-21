@@ -1,27 +1,49 @@
-baseurl = "https://justseomnotestoread.netlify.app/"
-title = "Papaya Blog"
-author = "Kaz"
-canonifyurls = true
-languagecode = "en"
-theme = "black-and-light"
+baseURL = "http://example.org/"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+# language code
+languageCode = "en"
+title = "My New Hugo Site"
 
-pygmentsstyle       = "bw"
-pygmentscodefences  = true
+# Change the default theme to be use when building the site with Hugo
+theme = "uBlogger"
 
 [params]
-  sitename = "Papaya Blog"
-  disableWebFonts = false
+  # uBlogger theme version
+  version = "1.3.X"
 
-[[menu.main]]
-    name = "About"
-    url  = "https://justseomnotestoread.netlify.app/"
-[[main.menu]]
-    name = "Find me Twitter"
-    url = "#"
-[[menu.main]]
-    name = "Papaya.moe"
-    url  = "http://papaya.moe"
-[[menu.main]]
-    name = "Send me an email."
-    url  = "#"
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
 
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration
+    noClasses = false
