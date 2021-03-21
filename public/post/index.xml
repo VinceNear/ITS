@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Themes</title>
-    <link>https://example.com/post/</link>
-    <description>Recent content in Posts on Hugo Themes</description>
+    <title>Posts on Huabing Blog</title>
+    <link>https://zhaohuabing.com/post/</link>
+    <description>Recent content in Posts on Huabing Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright  20082018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 30 Apr 2020 21:12:13 -0400</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2020 21:12:13 -0400</lastBuildDate><atom:link href="https://zhaohuabing.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A New Project</title>
-      <link>https://example.com/post/new/</link>
+      <link>https://zhaohuabing.com/post/new/</link>
       <pubDate>Thu, 30 Apr 2020 21:12:13 -0400</pubDate>
       
-      <guid>https://example.com/post/new/</guid>
+      <guid>https://zhaohuabing.com/post/new/</guid>
       <description>Starting a new project. Hello all and thank you for taking the time to visit this site.
 I have been looking to start a nice new project over the past few months while in qaurintune and thought that a file host would be a nice project to start and build upon. You can find my site at the following page at the top labeled &amp;ldquo;papaya.moe&amp;rdquo; It was an old domain that I had that was just sitting around and I wante to make use of it and I am hoping that I can start hosting files with a limit of 100mb</description>
     </item>
